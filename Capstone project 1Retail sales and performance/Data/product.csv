@@ -1,0 +1,9 @@
+product_id,product_name,category,cost,price
+1,Laptop,Electronics,40000,50000
+2,Phone,Electronics,15000,20000
+3,Headphones,Electronics,2000,3500
+4,Shirt,Clothing,600,1000
+5,Jeans,Clothing,1200,2500
+6,Shoes,Footwear,1500,3000
+7,Watch,Accessories,2000,5000
+8,Backpack,Accessories,800,2000

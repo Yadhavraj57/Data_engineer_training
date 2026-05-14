@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6a05871624a14fe66252ee01"
+  },
+  "campaign_id": 1,
+  "product_name": "Laptop",
+  "store_name": "Store A",
+  "feedback": "Good discount, high sales",
+  "rating": 4,
+  "date": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  }
+}]
