@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6a059879b4f0d6d2545f1100"
+  },
+  "employee_id": 101,
+  "employee_name": "Amit Sharma",
+  "department": "IT",
+  "feedback": "Completed tasks on time and maintained productivity.",
+  "notes": "Excellent performance"
+},
+{
+  "_id": {
+    "$oid": "6a059879b4f0d6d2545f1101"
+  },
+  "employee_id": 102,
+  "employee_name": "Priya Reddy",
+  "department": "HR",
+  "feedback": "Handled recruitment efficiently.",
+  "notes": "Good communication skills"
+},
+{
+  "_id": {
+    "$oid": "6a059879b4f0d6d2545f1102"
+  },
+  "employee_id": 103,
+  "employee_name": "Rahul Kumar",
+  "department": "Finance",
+  "feedback": "Frequent absenteeism noticed.",
+  "notes": "Needs improvement"
+}]
